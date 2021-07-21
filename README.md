@@ -18,7 +18,7 @@
 
 :school: Atuando hoje como Docente/Professor dos Cursos Livres e Técnico do SENAC São Paulo (Unidade Tatuapé).
 
-[![Youtube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC-zMoZSD3tDQLEuPYJtL0hw?label=YOUTUBE&logo=youtube&style=for-the-badge&logoColor=red)](https://youtube.com/boraparapratica)
+[![Youtube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC-zMoZSD3tDQLEuPYJtL0hw?label=YOUTUBE&logo=youtube&style=for-the-badge&logoColor=red)](https://youtube.com/boraparapratica) - [![GitHub followers](https://img.shields.io/github/followers/vaamonde?label=GitHub&logo=Github&style=for-the-badge)](https://github.com/vaamonde/)
 
 <p align="center">
   <a href="https://github.com/badtuxx?tab=followers">
