@@ -23,4 +23,4 @@
 ## ⚡ Estatísticas do meu GitHub
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=vaamonde&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaamonde&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaamonde&langs_count=4)]
