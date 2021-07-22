@@ -1,5 +1,5 @@
-# :penguin:Robson Vaamonde #ProcedimentosEmTI #BoraParaPratica:penguin: <img align="left" width="230" height="250" src="https://github.com/vaamonde/vaamonde/blob/main/vaamonde.png"</a>
-
+# :penguin:Robson Vaamonde #ProcedimentosEmTI #BoraParaPratica:penguin: 
+<img align="left" width="230" height="250" src="https://github.com/vaamonde/vaamonde/blob/main/vaamonde.png">
 :sound: Sou consultor de Infraestrutura de Redes de Computadores há +20 anos, minha trajetória acadêmica atual é Técnico/Tecnólogo e Pós-Graduado em Redes de Computadores com foco em Infraestrutura de Redes e Telecom. 
 
 :satellite: Já tirei as principais certificações de rede nos maiores players em Infraestrutura e TI do mercado, grandes empresas como:
