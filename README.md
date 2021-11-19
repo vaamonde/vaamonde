@@ -26,7 +26,7 @@
 
 ## ⚡ Estatísticas do meu GitHub
 
-![Overview](https://github.com/vaamonde/github-stats/blob/master/generated/overview.svg)
-![Languages](https://github.com/vaamonde/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/vaamonde/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/vaamonde/github-stats/blob/master/generated/languages.svg)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=vaamonde&show_icons=true&count_private=true&show_icons=true&include_all_commits=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaamonde&langs_count=4)
