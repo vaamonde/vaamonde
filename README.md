@@ -28,4 +28,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaamonde&langs_count=4)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=vaamonde&show_icons=true&count_private=true&show_icons=true&include_all_commits=true) 
 
-![](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+![](https://github.com/vaamonde/vaamonde/github-contribution-grid-snake.svg)
