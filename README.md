@@ -1,5 +1,12 @@
 # #RobsonVaamonde #ProcedimentosEmTI #BoraParaPratica
 
+<a href="https://github.com/vaamonde/vaamonde/stargazers"><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a>
+<a href="https://github.com/vaamonde/vaamonde/network/members"><img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/></a>
+<a href="https://github.com/vaamonde/vaamonde/pulls"><img src="https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/vaamonde/vaamonde/issues"><img src="https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme" alt="Issues Badge"/></a>
+<a href="https://github.com/vaamonde/vaamonde/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/abhisheknaiidu/awesome-github-profile-readme?color=2b9348"></a>
+<a href="https://github.com/vaamonde/vaamonde/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
+
 # 💰 Ajude o projeto Bora para Prática a continuar fazendo vídeos e materiais gratuitos para o Canal do YouTUBE
 # 💰 Chave PIX do projeto: robsonvaamonde@gmail.com
 # 💰 Link de doação do PagSeguro: https://pag.ae/bjlSJcH
