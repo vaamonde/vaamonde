@@ -1,6 +1,6 @@
 # #RobsonVaamonde #ProcedimentosEmTI #BoraParaPratica
 
-# 💰 Ajude o projeto Bora para Prática a continuar fazendo vídeos e materiais gratuitos para o Canal
+# 💰 Ajude o projeto Bora para Prática a continuar fazendo vídeos e materiais gratuitos para o Canal do YouTUBE
 # 💰 Chave PIX do projeto: robsonvaamonde@gmail.com
 # 💰 Link de doação do PagSeguro: https://pag.ae/bjlSJcH
 
