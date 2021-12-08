@@ -1,4 +1,4 @@
-# :penguin:#RobsonVaamonde #ProcedimentosEmTI #BoraParaPratica:penguin: 
+# #RobsonVaamonde #ProcedimentosEmTI #BoraParaPratica
 
 # 💰 Ajude o projeto Bora para Prática a continuar fazendo vídeos e materiais gratuitos para o Canal
 # 💰 Chave PIX do projeto: robsonvaamonde@gmail.com
