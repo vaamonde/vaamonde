@@ -1,12 +1,12 @@
 # #RobsonVaamonde #ProcedimentosEmTI #BoraParaPratica
-<p style="text-align: center;">
+<center>
 <a href="https://github.com/vaamonde/vaamonde/stargazers"><img src="https://img.shields.io/github/stars/vaamonde/vaamonde" alt="Stars Badge"/></a>
 <a href="https://github.com/vaamonde/vaamonde/network/members"><img src="https://img.shields.io/github/forks/vaamonde/vaamonde" alt="Forks Badge"/></a>
 <a href="https://github.com/vaamonde/vaamonde/pulls"><img src="https://img.shields.io/github/issues-pr/vaamonde/vaamonde" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/vaamonde/vaamonde/issues"><img src="https://img.shields.io/github/issues/vaamonde/vaamonde" alt="Issues Badge"/></a>
 <a href="https://github.com/vaamonde/vaamonde/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/vaamonde/vaamonde?color=2b9348"></a>
 <a href="https://github.com/vaamonde/vaamonde/blob/master/LICENSE"><img src="https://img.shields.io/github/license/vaamonde/vaamonde?color=2b9348" alt="License Badge"/></a>
-</p>
+</center>
 
 # 💰 Ajude o projeto Bora para Prática a continuar fazendo vídeos e materiais gratuitos para o Canal do YouTUBE
 # 💰 Chave PIX do projeto: robsonvaamonde@gmail.com
