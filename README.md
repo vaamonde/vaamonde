@@ -48,6 +48,7 @@
 ## ⚡ Estatísticas do meu GitHub
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaamonde&langs_count=4)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=vaamonde&show_icons=true&count_private=true&show_icons=true&include_all_commits=true) 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaamonde&theme=dark" alt="vaamonde"/>
 
 ## :snake: Contribuições do meu Github :snake:
 ![](https://github.com/vaamonde/vaamonde/blob/output/github-contribution-grid-snake.svg)
