@@ -12,6 +12,7 @@
 # 💰 Ajude o projeto Bora para Prática a continuar fazendo vídeos e materiais gratuitos para o Canal do YouTUBE
 # 💰 Chave PIX do projeto: robsonvaamonde@gmail.com
 # 💰 Link de doação do PagSeguro: https://pag.ae/bjlSJcH
+# 💰 Link de doação do Paypal: https://www.paypal.com/donate/?hosted_button_id=EALLB7DQ3U6H2
 
 <img align="left" width="230" height="250" src="https://github.com/vaamonde/vaamonde/blob/main/vaamonde.png">
 :sound: Sou consultor de Infraestrutura de Redes de Computadores há +20 anos, minha trajetória acadêmica atual é Técnico/Tecnólogo e Pós-Graduado em Redes de Computadores com foco em Infraestrutura de Redes e Telecom. 
