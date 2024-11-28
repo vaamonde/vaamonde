@@ -15,23 +15,23 @@
 # 💰 Link de doação do Paypal: https://www.paypal.com/donate/?hosted_button_id=EALLB7DQ3U6H2
 
 <img align="left" width="230" height="250" src="https://github.com/vaamonde/vaamonde/blob/main/vaamonde.png">
-:sound: Sou consultor de Infraestrutura de Redes de Computadores há +20 anos, minha trajetória acadêmica atual é Técnico/Tecnólogo e Pós-Graduado em Redes de Computadores com foco em Infraestrutura de Redes e Telecom. 
+:sound: Com mais de 24 anos de experiência como consultor em Infraestrutura de Redes de Computadores, construí uma sólida trajetória acadêmica e profissional. Sou Técnico, Tecnólogo e Pós-Graduado em Redes de Computadores, com especialização em Infraestrutura de Redes e Telecom.. 
 
-:satellite: Já tirei as principais certificações de rede nos maiores players em Infraestrutura e TI do mercado, grandes empresas como:
+:satellite: Ao longo da minha carreira, conquistei certificações de destaque nos principais players de TI, grandes empresas como:
 - :rocket: Microsoft MCSA
 - :rocket: GNU/Linux LPI LPIC-2
 - :rocket: CompTIA LPIC-1
 - :rocket: Cisco CCAI/CCNA/CCNP
 - :rocket: Furukawa FCP
 
-:office: Sempre trabalhei em projetos de consultoria de design de redes para instituições acadêmicas e financeiras com foco em Interoperabilidade de Sistemas Operacionais.
+:office: Atuei em projetos estratégicos de design e consultoria para redes em instituições acadêmicas e financeiras, sempre com foco em interoperabilidade de sistemas operacionais.
 
-:house: Sou mantenedor do blog/redes sociais Procedimentos em TI e Bora para Prática. 
+:house: lém disso, sou o criador e mantenedor de iniciativas como o Procedimentos em TI, Bora para Prática e o Projeto AulaEAD, onde compartilho conhecimento e capacito profissionais em tecnologia. 
 - :penguin: http://www.procedimentosemti.com.br
 - :penguin: http://www.boraparapratica.com.br
 - :penguin: http://www.vamonde.com.br
 
-:school: Atuando hoje como Docente/Professor dos Cursos Livres e Técnico do SENAC São Paulo (Unidade Tatuapé).
+:school: Atualmente, integro o time de docentes do SENAC São Paulo (Unidade Tatuapé), ministrando cursos técnicos e livres com enfoque em práticas reais e aplicadas. Minha missão é conectar tecnologia, educação e inovação, colaborando com profissionais e empresas para construir soluções robustas e eficientes.
 
 ## 💻 Tecnologias e Ferramentas do meu Dia a Dia
 <div align="center">
