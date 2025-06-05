@@ -15,7 +15,7 @@
 # 💰 Link de doação do Paypal: https://www.paypal.com/donate/?hosted_button_id=EALLB7DQ3U6H2
 
 <img align="left" width="230" height="250" src="https://github.com/vaamonde/vaamonde/blob/main/vaamonde.png">
-:sound: Com mais de 24 anos de experiência como consultor em Infraestrutura de Redes de Computadores, construí uma sólida trajetória acadêmica e profissional. Sou Técnico, Tecnólogo e Pós-Graduado em Redes de Computadores, com especialização em Infraestrutura de Redes e Telecom.. 
+:sound: Com mais de 25 anos de experiência como consultor em Infraestrutura de Redes de Computadores, construí uma sólida trajetória acadêmica e profissional. Sou Técnico, Tecnólogo e Pós-Graduado em Redes de Computadores, com especialização em Infraestrutura de Redes e Telecom.. 
 
 :satellite: Ao longo da minha carreira, conquistei certificações de destaque nos principais players de TI, grandes empresas como:
 - :rocket: Microsoft MCSA
