@@ -1,4 +1,4 @@
-# #RobsonVaamonde #ProcedimentosEmTI #BoraParaPratica #Vaamonde
+# #RobsonVaamonde #ProcedimentosEmTI #BoraParaPratica #Vaamonde #VavaAprova
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=vaamonde&label=Profile%20views&color=0e75b6&style=flat" alt="vaamonde"/>
 <a href="https://github.com/vaamonde/vaamonde/stargazers"><img src="https://img.shields.io/github/stars/vaamonde/vaamonde" alt="Stars Badge"/></a>
@@ -8,11 +8,6 @@
 <a href="https://github.com/vaamonde/vaamonde/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/vaamonde/vaamonde?color=2b9348"></a>
 <a href="https://github.com/vaamonde/vaamonde/blob/main/LICENSE"><img src="https://img.shields.io/github/license/vaamonde/vaamonde?color=2b9348" alt="License Badge"/></a>
 </div>
-
-# 💰 Ajude o projeto Bora para Prática a continuar fazendo vídeos e materiais gratuitos para o Canal do YouTUBE
-# 💰 Chave PIX do projeto: robsonvaamonde@gmail.com
-# 💰 Link de doação do PagSeguro: https://pag.ae/bjlSJcH
-# 💰 Link de doação do Paypal: https://www.paypal.com/donate/?hosted_button_id=EALLB7DQ3U6H2
 
 <img align="left" width="230" height="250" src="https://github.com/vaamonde/vaamonde/blob/main/vaamonde.png">
 :sound: Com mais de 25 anos de experiência como consultor em Infraestrutura de Redes de Computadores, construí uma sólida trajetória acadêmica e profissional. Sou Técnico, Tecnólogo e Pós-Graduado em Redes de Computadores, com especialização em Infraestrutura de Redes e Telecom.. 
@@ -26,12 +21,12 @@
 
 :office: Atuei em projetos estratégicos de design e consultoria para redes em instituições acadêmicas e financeiras, sempre com foco em interoperabilidade de sistemas operacionais.
 
-:house: lém disso, sou o criador e mantenedor de iniciativas como o Procedimentos em TI, Bora para Prática e o Projeto AulaEAD, onde compartilho conhecimento e capacito profissionais em tecnologia. 
+:house: Além disso, sou o criador e mantenedor de iniciativas como o Procedimentos em TI, Bora para Prática e o Projeto AulaEAD, onde compartilho conhecimento e capacito profissionais em tecnologia. 
 - :penguin: http://www.procedimentosemti.com.br
 - :penguin: http://www.boraparapratica.com.br
 - :penguin: http://www.vamonde.com.br
 
-:school: Atualmente, integro o time de docentes do SENAC São Paulo (Unidade Tatuapé), ministrando cursos técnicos e livres com enfoque em práticas reais e aplicadas. Minha missão é conectar tecnologia, educação e inovação, colaborando com profissionais e empresas para construir soluções robustas e eficientes.
+:school: Atualmente, integro o time de docentes do SENAC São Paulo (Unidade Lapa Tito), ministrando cursos técnicos e livres com enfoque em práticas reais e aplicadas. Minha missão é conectar tecnologia, educação e inovação, colaborando com profissionais e empresas para construir soluções robustas e eficientes.
 
 ## 💻 Tecnologias e Ferramentas do meu Dia a Dia
 <div align="center">
@@ -46,14 +41,7 @@
 ## 🚀 Minhas redes sociais e canal no YouTube
 [![Youtube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC-zMoZSD3tDQLEuPYJtL0hw?label=YOUTUBE&logo=youtube&style=for-the-badge&logoColor=red)](https://youtube.com/boraparapratica) - [![GitHub followers](https://img.shields.io/github/followers/vaamonde?label=GitHub&logo=Github&style=for-the-badge)](https://github.com/vaamonde/) - [![Facebook ProcedimentosEmTi](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=ProcedimentosEmTi&logoColor=white)](https://www.facebook.com/ProcedimentosEmTi) - [![Facebook BoraParaPratica](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=BoraParaPratica&logoColor=white)](https://www.facebook.com/boraparapratica) - [![LinkedIn Vaamonde](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robson-vaamonde-0b029028/) - [![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/procedimentoem/)
 
-## ⚡ Estatísticas do meu GitHub
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaamonde&show_icons=true&theme=dark&locale=en&layout=compact" alt="vaamonde"/>
-<img src="https://github-readme-stats.vercel.app/api?username=vaamonde&show_icons=true&theme=dark&locale=en" alt="vaamonde"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaamonde&theme=dark" alt="vaamonde"/>
-</div>
-
-## :snake: Contribuições do meu Github :snake:
-![snake gif](https://github.com/vaamonde/vaamonde/blob/output/github-contribution-grid-snake.svg)
-
-<a href="https://activity-graph.herokuapp.com/graph?username=vaamonde"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vaamonde&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+# 💰 Ajude o projeto Bora para Prática a continuar fazendo vídeos e materiais gratuitos para o Canal do YouTUBE
+# 💰 Chave PIX do projeto: robsonvaamonde@gmail.com
+# 💰 Link de doação do PagSeguro: https://pag.ae/bjlSJcH
+# 💰 Link de doação do Paypal: https://www.paypal.com/donate/?hosted_button_id=EALLB7DQ3U6H2
