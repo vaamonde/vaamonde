@@ -10,8 +10,8 @@
 </div>
 
 <img align="left" width="330" height="350" src="https://github.com/vaamonde/vaamonde/blob/main/vaamonde.png">
-:sound: Com mais de 25 anos de experiência como consultor em Infraestrutura de Redes de Computadores, construí uma sólida trajetória acadêmica e profissional. Sou Técnico, Tecnólogo e Pós-Graduado em Redes de Computadores, com especialização em Infraestrutura de Redes e Telecom.<br>
-<br>
+:sound: Com mais de 25 anos de experiência como consultor em Infraestrutura de Redes de Computadores, construí uma sólida trajetória acadêmica e profissional. Sou Técnico, Tecnólogo e Pós-Graduado em Redes de Computadores, com especialização em Infraestrutura de Redes e Telecom.<br><br>
+
 :satellite: Ao longo da minha carreira, conquistei certificações de destaque nos principais players de TI, grandes empresas como:
 - :rocket: Microsoft MCSA
 - :rocket: GNU/Linux LPI LPIC-2
