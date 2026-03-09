@@ -9,7 +9,7 @@
 <a href="https://github.com/vaamonde/vaamonde/blob/main/LICENSE"><img src="https://img.shields.io/github/license/vaamonde/vaamonde?color=2b9348" alt="License Badge"/></a>
 </div>
 
-<img align="left" width="230" height="250" src="https://github.com/vaamonde/vaamonde/blob/main/vaamonde.png">
+<img align="left" width="330" height="350" src="https://github.com/vaamonde/vaamonde/blob/main/vaamonde.png">
 :sound: Com mais de 25 anos de experiência como consultor em Infraestrutura de Redes de Computadores, construí uma sólida trajetória acadêmica e profissional. Sou Técnico, Tecnólogo e Pós-Graduado em Redes de Computadores, com especialização em Infraestrutura de Redes e Telecom.. 
 
 :satellite: Ao longo da minha carreira, conquistei certificações de destaque nos principais players de TI, grandes empresas como:
